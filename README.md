@@ -1,4 +1,4 @@
-| Linguagens Favoritas |![email-icon][] Meu E-mail [ramon438xavier@gmail.com] ![linkedin-icon][] Meu [Linkedin][]
+| Linguagens Favoritas |![email-icon][] [Email][] <br> ![linkedin-icon][] [Linkedin][]
 | :---: | :---:
 | ![bad-php][] ![bad-csharp] ![bad-flutter][] ![bad-sql] | Conhecimentos ![banner][]
 
@@ -6,7 +6,7 @@
 Veja minhas estatísticas do GitHub [tipsy/profile-summary-for-github][]
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=RamonXavier/RamonXavier)
 
-| Linguagens | Git
+| Uso | Git
 | :---: | :---:
 | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonXavier&layout=compact&theme=dracula"> <a href="mailto:muttiyuri@gmail.com" target="blank"><img alt="Gmail Badge" src="https://img.shields.io/badge/-ramon438xavier@gmail.com-563D7C?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ramon438xavier@gmail.com"/></a> | ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RamonXavier&show_icons=true&theme=radical)
 
@@ -15,6 +15,7 @@ Veja minhas estatísticas do GitHub [tipsy/profile-summary-for-github][]
 [israellaguan@gmail.com]: mailto:israellaguan@gmail.com
 [linkedin-icon]: https://github.com/RamonXavier/RamonXavier/blob/main/docs/linkedin-3-32%20(1).png?raw=true
 [Linkedin]: https://www.linkedin.com/in/ramonxavier
+[Email]: ramon438xavier@gmail.com
 [github-icon]: https://img.icons8.com/color/48/000000/github--v1.png
 [GitHub]: https://github.com/RamonXavier
 [bad-flutter]: https://img.shields.io/badge/FLUTTER-Intermedi%C3%A1rio-ligthblue?&style=for-the-badge&logo=flutter
