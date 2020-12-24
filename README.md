@@ -11,12 +11,12 @@
   
 </p>
 
-| Linguagens Favoritas |![email-icon][] Meu E-mail [ramon438xavier@gmail.com][] ![linkedin-icon][] Meu [Linkedin][]
+| Linguagens Favoritas |![email-icon][] Meu E-mail [ramon438xavier@gmail.com] ![linkedin-icon][] Meu [Linkedin][]
 | :---: | :---:
 | ![bad-php][] ![bad-csharp] ![bad-flutter][] ![bad-sql] | ![banner][]
 
 ![stats][]
-Stats by [tipsy/profile-summary-for-github][]
+<center> Veja minhas estatísticas do GitHub [tipsy/profile-summary-for-github][] </center>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=RamonXavier/RamonXavier)
 
@@ -31,6 +31,6 @@ Stats by [tipsy/profile-summary-for-github][]
 [bad-sql]: https://img.shields.io/badge/SQL-Avan%C3%A7ado-yellow?&style=for-the-badge&logo=mysql
 [bad-php]: https://img.shields.io/badge/PHP-M%C3%A9dio%20Avan%C3%A7ado-blue?&style=for-the-badge&logo=php
 [bad-csharp]: https://img.shields.io/badge/C%23-Intermedi%C3%A1rio-red?style=for-the-badge&logo=c-sharp
-[banner]: https://raw.githubusercontent.com/RamonXavier/RamonXavier/main/docs/banner.png
-[stats]: https://github.com/RamonXavier/RamonXavier/raw/master/docs/github_stats.png
+[banner]: https://github.com/RamonXavier/RamonXavier/blob/main/docs/banner2.png?raw=true
+[stats]: https://github.com/RamonXavier/RamonXavier/blob/main/docs/dash.png?raw=true
 [tipsy/profile-summary-for-github]: https://profile-summary-for-github.com/user/RamonXavier
