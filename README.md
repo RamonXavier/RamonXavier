@@ -3,8 +3,7 @@
 | ![bad-php][] ![bad-csharp] ![bad-flutter][] ![bad-sql] | Conhecimentos ![banner][]
 
 ![stats][]
-<center> Veja minhas estatísticas do GitHub [tipsy/profile-summary-for-github][] </center>
-
+Veja minhas estatísticas do GitHub [tipsy/profile-summary-for-github][]
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=RamonXavier/RamonXavier)
 
 | Linguagens | Git
