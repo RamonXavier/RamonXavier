@@ -3,17 +3,17 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonXavier&layout=compact&theme=dracula"> 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yuri-mutti-0418bb1aa/" target="blank"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Yuri%20Mutti-563D7C?style=flat- square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuri-mutti-0418bb1aa/"/>
+  <a href="https://www.linkedin.com/in/ramonxavier/" target="blank"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Yuri%20Mutti-563D7C?style=flat- square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramonxavier/"/>
     
   </a>
-  <a href="mailto:muttiyuri@gmail.com" target="blank"><img alt="Gmail Badge" src="https://img.shields.io/badge/-muttiyuri@gmail.com-563D7C?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muttiyuri@gmail.com"/>
+  <a href="mailto:muttiyuri@gmail.com" target="blank"><img alt="Gmail Badge" src="https://img.shields.io/badge/-ramon438xavier@gmail.com-563D7C?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ramon438xavier@gmail.com"/>
   </a>
   
 </p>
 
-| My favorite tools |![email-icon][] Email me to [israellaguan@gmail.com][] ![linkedin-icon][] Connect in [Linkedin][]
+| Linguagens Favoritas |![email-icon][] Meu E-mail [ramon438xavier@gmail.com][] ![linkedin-icon][] Meu [Linkedin][]
 | :---: | :---:
-| ![badge-react][] ![badge-css] ![badge-nodejs][] ![badge-postgres] | ![banner][]
+| ![bad-php][] ![bad-csharp] ![bad-flutter][] ![bad-sql] | ![banner][]
 
 ![stats][]
 Stats by [tipsy/profile-summary-for-github][]
@@ -21,16 +21,16 @@ Stats by [tipsy/profile-summary-for-github][]
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=RamonXavier/RamonXavier)
 
 [pic]: https://avatars2.githubusercontent.com/u/36519478?s=460&v=4
-[email-icon]: https://img.icons8.com/color/48/000000/message-squared.png
+[email-icon]: https://github.com/RamonXavier/RamonXavier/blob/main/docs/mail-32.png?raw=true
 [israellaguan@gmail.com]: mailto:israellaguan@gmail.com
-[linkedin-icon]: https://img.icons8.com/color/48/000000/linkedin.png
-[Linkedin]: https://www.linkedin.com/in/israellaguan
+[linkedin-icon]: https://github.com/RamonXavier/RamonXavier/blob/main/docs/linkedin-3-32%20(1).png?raw=true
+[Linkedin]: https://www.linkedin.com/in/ramonxavier
 [github-icon]: https://img.icons8.com/color/48/000000/github--v1.png
 [GitHub]: https://github.com/RamonXavier
-[badge-nodejs]: https://img.shields.io/badge/node.js-V14.x-339933?style=for-the-badge&logo=node.js
-[badge-postgres]: https://img.shields.io/badge/database-postgreSQL-47A248?style=for-the-badge&logo=postgresql
-[badge-react]: https://img.shields.io/badge/React-16+-61DAFB?style=for-the-badge&logo=react
-[badge-css]: https://img.shields.io/badge/style-CSS-1572B6?style=for-the-badge&logo=css3
-[banner]: https://github.com/RamonXavier/RamonXavier/docs/banner.png
+[bad-flutter]: https://img.shields.io/badge/FLUTTER-Intermedi%C3%A1rio-ligthblue?&style=for-the-badge&logo=flutter
+[bad-sql]: https://img.shields.io/badge/SQL-Avan%C3%A7ado-yellow?&style=for-the-badge&logo=mysql
+[bad-php]: https://img.shields.io/badge/PHP-M%C3%A9dio%20Avan%C3%A7ado-blue?&style=for-the-badge&logo=php
+[bad-csharp]: https://img.shields.io/badge/C%23-Intermedi%C3%A1rio-red?style=for-the-badge&logo=c-sharp
+[banner]: https://raw.githubusercontent.com/RamonXavier/RamonXavier/main/docs/banner.png
 [stats]: https://github.com/RamonXavier/RamonXavier/raw/master/docs/github_stats.png
 [tipsy/profile-summary-for-github]: https://profile-summary-for-github.com/user/RamonXavier
