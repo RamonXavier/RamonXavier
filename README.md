@@ -12,7 +12,6 @@ Veja minhas estatísticas do GitHub [tipsy/profile-summary-for-github][]
 
 [pic]: https://avatars2.githubusercontent.com/u/36519478?s=460&v=4
 [email-icon]: https://github.com/RamonXavier/RamonXavier/blob/main/docs/mail-32.png?raw=true
-[israellaguan@gmail.com]: mailto:israellaguan@gmail.com
 [linkedin-icon]: https://github.com/RamonXavier/RamonXavier/blob/main/docs/linkedin-3-32%20(1).png?raw=true
 [Linkedin]: https://www.linkedin.com/in/ramonxavier
 [Email]: ramon438xavier@gmail.com
