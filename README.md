@@ -8,7 +8,7 @@ Veja minhas estatísticas do GitHub [tipsy/profile-summary-for-github][]
 
 | Uso | Git
 | :---: | :---:
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonXavier&layout=compact&theme=dracula"> <a href="mailto:muttiyuri@gmail.com" target="blank"><img alt="Gmail Badge" src="https://img.shields.io/badge/-ramon438xavier@gmail.com-563D7C?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ramon438xavier@gmail.com"/></a> | ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RamonXavier&show_icons=true&theme=radical)
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonXavier&layout=compact&theme=dracula"> <a href="mailto:ramon438xavier@gmail.com" target="blank"><img alt="Gmail Badge" src="https://img.shields.io/badge/-ramon438xavier@gmail.com-563D7C?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ramon438xavier@gmail.com"/></a> | ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RamonXavier&show_icons=true&theme=radical)
 
 [pic]: https://avatars2.githubusercontent.com/u/36519478?s=460&v=4
 [email-icon]: https://github.com/RamonXavier/RamonXavier/blob/main/docs/mail-32.png?raw=true
